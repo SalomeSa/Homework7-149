@@ -7,11 +7,16 @@
     justify-content: space-between;
 }
 
+.burger{
+    display: none;
+}
+
 .logo{
     vertical-align: middle;
 }
 
 .nav-bar{
+    margin-top: 10px;
     vertical-align: middle;
 }
 
@@ -173,5 +178,4 @@ nav ul li a, .header1{
     color: #000000;
     background-color: #ffffff;
 }
-
 
